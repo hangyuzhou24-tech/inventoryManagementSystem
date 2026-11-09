@@ -1,0 +1,8 @@
+node_modules
+.next
+erp.db
+.env
+__pycache__
+*.pyc
+smoke_test.py
+verify_mysql.py
